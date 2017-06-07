@@ -1,0 +1,54 @@
+body {
+  background-color: purple;
+  font-style: oblique;
+}
+
+img {
+  float: right;
+  margin-bottom: 5px;
+  width: 350px;
+  padding-top: 20px;
+}
+
+h1 {
+  font-family: fantasy;
+  font-size: 50px;
+  margin: 70px;
+}
+
+.column1of3 {
+  float: left;
+  margin: 10px;
+}
+
+.column2of3 {
+  float: left;
+  width: 300px;
+  margin: 10px;
+}
+
+.column3of3 {
+  float: left;
+  width: 300px;
+  margin: 10px;
+}
+
+p {
+  color: skyblue;
+  border: red;
+  border-radius: 4px;
+
+}
+
+ul {
+  color: blue;
+}
+
+span {
+  float: right;
+  color: blue;
+}
+
+ol {
+  color: blue;
+}
