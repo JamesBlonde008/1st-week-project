@@ -10,10 +10,10 @@ img {
   padding-top: 20px;
 }
 
-h1 {
+.jumbotron {
   font-family: fantasy;
   font-size: 50px;
-  margin: 70px;
+  margin: 50px;
 }
 
 .column1of3 {
